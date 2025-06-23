@@ -1,0 +1,23 @@
+# 🚀 Unlock the Power of Trading!
+
+Welcome to this open-source trading project. Here you will find powerful tools to enhance your trading journey. If you find this project useful, please consider starring ⭐, sharing, or donating to support further development!
+
+---
+
+**Support the project:**
+- Star this repository on GitHub
+- Share it with your trading friends
+- [Donate here](https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID) to help us grow!
+
+---
+
+## Files included:
+### Source Files:
+- `atr_adaptive_smoothed_laguerre_rsi_2_dno_built_in_functionsk.mq5`
+
+### Screenshots:
+![Screenshot](Capture_cb__2.png)
+![Screenshot](capture__7.png)
+![Screenshot](script.png)
+
+> Made with ❤️ for the trading community.
